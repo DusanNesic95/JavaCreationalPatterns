@@ -2,7 +2,7 @@ package net.sytes.codeline.main;
 
 import net.sytes.codeline.builder.Sandwich;
 
-public class Main {
+public class MainBuilder {
 
 	public static void main(String[] args) {
 		Sandwich.SandwichBuilder builder = new Sandwich.SandwichBuilder();
